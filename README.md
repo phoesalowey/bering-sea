@@ -6,7 +6,7 @@ The Bering Sea is an important region in the North Pacific, both oceanographical
  How does acidity vary with time and space in the Eastern Bering Sea?<br>
  Is there a correlation between acidity and population fluctuations in any economically important crab species?<br>
 
-I expect a slight increase in acididty as atmospheric CO2 rises over the 5 year time span, and prior work has shown tanner crabs and blue king crabs as more vulnerable at lower pH, with Snow Crabs showing more resilence. I would expect to see more pronounced decreases in catch in Tanner Crabs and Blue King crabs.
+I expect a slight increase in acididty as atmospheric CO2 rises over the 5 year time span, and prior work has shown tanner crabs and blue king crabs as more vulnerable at lower pH, with Snow Crabs showing more resilence. I would expect to see more pronounced decreases in biomass for Tanner Crabs and Blue King crabs.
 
 ## Data:
 
